@@ -1,0 +1,18 @@
+{
+	"plants": [
+		{
+			"common_name": "Snake Plant",
+			"scientific_name": "Sansevieria trifasciata",
+			"family_common_name": "Asparagaceae",
+			"observations": "A hardy, easy-to-grow plant that is great for beginners. Snake plants can tolerate low light conditions and are very low-maintenance.",
+			"image_url": "/assets/snakeplant.jpg"
+		},
+		{
+			"common_name": "Money Tree",
+			"scientific_name": "Pachira aquatica",
+			"family_common_name": "Malvaceae",
+			"observations": "The Money Tree is said to bring good luck and prosperity. It prefers bright, indirect light and can grow quite tall if well taken care of.",
+			"image_url": "/assets/moneytree.jpg"
+		}
+	]
+}
