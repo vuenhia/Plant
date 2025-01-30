@@ -6,23 +6,16 @@
 	height: 300px;
 	background-color: rgb(245, 229, 229);
 	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	gap: 450px;
 }
 .header h1 {
 	font-size: 100px;
 	color: #7e8c54;
-	position: relative;
-	top: 50%;
-	left: 20%;
 }
-nav {
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-	width: 100%;
-	position: absolute;
-	top: 28%;
-	left: 15%;
-	transform: translateY(-40%);
+.nav {
+	margin-bottom: 11px;
 }
 nav a {
 	font-size: 50px;
@@ -57,7 +50,7 @@ article {
 	padding-left: 30px;
 	padding-top: 20px;
 }
-h1 {
+h2 {
 	font-family: "Pacifico", cursive;
 }
 body {
@@ -80,7 +73,7 @@ body {
 	border-radius: 20px;
 	text-align: center;
 }
-.plant h1 {
+.plant h2 {
 	position: relative;
 	font-family: "Instrument Serif", serif;
 	color: white;
